@@ -1,0 +1,22 @@
+{
+  "name": "holamundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jevasquezl/nodeclase01.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jevasquezl/nodeclase01.git/issues"
+  },
+  "homepage": "https://github.com/jevasquezl/nodeclase01#readme"
+}
